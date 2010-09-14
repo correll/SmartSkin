@@ -1,0 +1,10 @@
+BOM
+--------
+
+
+1	PDI	WM17457-ND			PDI connector
+1	H1-H7	S1013E-36-ND			UART connectors (part comes with 36 positions)
+1	F1	MF-FSMF020X-2CT-ND		Resettable fuse (200mA)	
+1	HS1	620-1172-1-ND			IC Sensor Hall Effect
+1	A0	PDV-P9007-ND			Photo resistor
+1	LP1	587-1720-1-ND			Inductor 10 uH
